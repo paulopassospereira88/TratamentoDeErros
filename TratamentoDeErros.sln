@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlocoTryCatchFinally", "Blo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlocoTryCatchThrow", "BlocoTryCatchThrow\BlocoTryCatchThrow.csproj", "{228BCBAA-BF28-495F-8D61-875484807D87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlocoTryCatchExceptionFilters", "BlocoTryCatchExceptionFilters\BlocoTryCatchExceptionFilters.csproj", "{415F2EEE-CEFE-427D-9B51-943EDF8D0170}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{228BCBAA-BF28-495F-8D61-875484807D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{228BCBAA-BF28-495F-8D61-875484807D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{228BCBAA-BF28-495F-8D61-875484807D87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{415F2EEE-CEFE-427D-9B51-943EDF8D0170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{415F2EEE-CEFE-427D-9B51-943EDF8D0170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{415F2EEE-CEFE-427D-9B51-943EDF8D0170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{415F2EEE-CEFE-427D-9B51-943EDF8D0170}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
